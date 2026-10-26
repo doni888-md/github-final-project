@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# github-final-project
 
 A small shell script that calculates simple interest from the principal amount, the rate of interest, and the time period.
 
